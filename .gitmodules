@@ -1,0 +1,3 @@
+[submodule "iwpt2017"]
+	path = iwpt2017
+	url = https://github.com/sigparse/iwpt2017
