@@ -469,7 +469,7 @@ These have been sold .
 Geoff ,
 Thanks for the pictures .
 Looks like the kids had a great time !
-I hope you do n't mind , but I 've taken liberty to turn them into a web photo album at http://24.27.98.30/pictures/08-05_Garrett_Gayle_Bday .
+I hope you do n't mind , but I 've taken liberty to turn them into a web photo album at http://24.27.98.30/pictures/08-05#Garrett#Gayle#Bday .
 If you want to pass this web site address along to other folks , feel free .
 If you want a CD copy of this web site , give me a yell .
 Thanks ,
@@ -709,9 +709,9 @@ Vince / Taiichi
 In case you are interested , I attach this paper on gas Storage value modeling .
 Best ,
 Darrell
-_____________________________________________
+#############################################
 Darrell Duffie mail GSB Stanford CA 94305-5015 USA phone 650 723 1976 fax 650 725 7979 email duffie@stanford.edu web http://www.stanford.edu/~duffie/
-_____________________________________________
+#############################################
 - Paper4.pdf
 Al ,
 I have spoken with Mark Lay and he is interested .
@@ -850,7 +850,7 @@ Have a Nice Day * **
 Thanks and Regard
 Rajendra
 rajendra.o...@gmail.com
-image_gif_part
+image#gif#part
 81 K Download
 I just finish reading a really good book ( it was actually a ebook ) from some new series called the The Tale of Terra .
 The story had brillant battle scenes , lovable heroes and villians , a compelling story line , and it left me dying for the next part of the series :) go to taleofterra.com to learn more aboout it
@@ -1026,7 +1026,7 @@ With their proposal of a " Earth - Moon " highway , it looks like space tourism 
 Selah !
 --
 Posted by Hidden Nook to Hidden Nook at 2/15/2005 05:12:00 PM
-[ http://www.space.com/missionlaunches/ft_050829_ksc_spacefuture.html ]
+[ http://www.space.com/missionlaunches/ft#050829#ksc#spacefuture.html ]
 ( Space.com )
 U.S. astronauts will launch to the moon on sleek , single , shuttle booster rockets and the first new upper - stage rocket this country has developed in more than a decade , NASA and the Pentagon have told the White House .
 Lunar landers and other gear needed for extended visits to the moon will be lofted by gargantuan launchers as big as the Apollo - era Saturn 5 , the most powerful rockets ever flown .
@@ -1096,11 +1096,11 @@ Maybe it 's true that life begins at fifty ... but everything else starts to wea
 ------
 By the time a man is wise enough to watch his step , he 's too old to go anywhere .
 - Billy Crystal
-__________________________________________________
+##################################################
 Do You Yahoo! ?
 Tired of spam ?
 Yahoo! Mail has the best spam protection around
-image_jpg_part
+image#jpg#part
 52 K Download
 What language is talked in Iguazu ?
 portuguese
@@ -1138,7 +1138,7 @@ m
 Who is artist Gunther Uecker ; explain ?
 http://www.kettererkunst.com/bio/GuntherUecker-1930.shtml
 His work
-http://www.google.com/search?hl=en&rlz=1G1GGLQ_ENUS359&q=gunther+uecker+biography&gs_sm=c&gs_upl=484l484l0l5093l1l1l0l0l0l0l328l328l3-1l1l0&um=1&ie=UTF-8&tbm=isch&source=og&sa=N&tab=wi&biw=1221&bih=756&sei=XVG5TqrrGoXK2AXG0ry-Bw#um=1&hl=en&rlz=1G1GGLQ_ENUS359&tbm=isch&sa=1&q=gunther+uecker+artist&pbx=1&oq=gunther+uecker+&aq=1S&aqi=g1g-S3&aql=&gs_sm=c&gs_upl=10219l10219l0l13797l1l1l0l0l0l0l125l125l0.1l1l0&bav=on.2,or.r_gc.r_pw.,cf.osb&fp=13ddcdc64cbf5fd&biw=1221&bih=756
+http://www.google.com/search?hl=en&rlz=1G1GGLQ#ENUS359&q=gunther+uecker+biography&gs#sm=c&gs#upl=484l484l0l5093l1l1l0l0l0l0l328l328l3-1l1l0&um=1&ie=UTF-8&tbm=isch&source=og&sa=N&tab=wi&biw=1221&bih=756&sei=XVG5TqrrGoXK2AXG0ry-Bw#um=1&hl=en&rlz=1G1GGLQ#ENUS359&tbm=isch&sa=1&q=gunther+uecker+artist&pbx=1&oq=gunther+uecker+&aq=1S&aqi=g1g-S3&aql=&gs#sm=c&gs#upl=10219l10219l0l13797l1l1l0l0l0l0l125l125l0.1l1l0&bav=on.2,or.r#gc.r#pw.,cf.osb&fp=13ddcdc64cbf5fd&biw=1221&bih=756
 How much does it cost to buy a Big Mac meal in your area ?
 Here in Indiana I think it 's like $ 3 or $ 4 for a meal .
 in n out of the chicago area ?
@@ -1413,7 +1413,7 @@ Look on the debenhams website
 in the craghoppers section
 they do some good waterproof raincoats
 here s the link :
-http://www.debenhams.com/women/craghoppers#catalogId=10001&lid=//productsuniverse/en_GB/product_online0Y/categories%3C0productsuniverse_186610/brand_description0.000000E+000craghoppers0/categories%3C0productsuniverse_18661_186820&ps=default&sfn=Categories&sfv=Coats+%26amp0+jackets&storeId=10001
+http://www.debenhams.com/women/craghoppers#catalogId=10001&lid=//productsuniverse/en#GB/product#online0Y/categories%3C0productsuniverse#186610/brand#description0.000000E+000craghoppers0/categories%3C0productsuniverse#18661#186820&ps=default&sfn=Categories&sfv=Coats+%26amp0+jackets&storeId=10001
 I have a Kodak Camera ( 10.2 Megapixels ) ... Kodak AF 5x OPTICAL LENS ... how do I pause it while recording ?
 I have a Kodak Camera ( 10.2 Megapixels ) ... Kodak AF 5x OPTICAL LENS ... how do I pause it while recording ?
 You do n't ... there 's no such thing as " pause " in digital recording .
